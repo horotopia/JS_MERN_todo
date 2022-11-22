@@ -1,1 +1,1 @@
-# MERN_todo
+# JS_MERN_todo
